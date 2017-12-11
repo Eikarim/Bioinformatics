@@ -1,5 +1,6 @@
 # BioPhysics
 Scripts and data for the homework in Biophysics course by Rubén Molina.
+Option 4, Alanine Scanning is not working for the moment.
 
 Usage:
 
