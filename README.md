@@ -5,7 +5,7 @@ Usage:
 
     python3 main.py [-h] [--backonly] [--nowats] pdb_path msms_path
 
-(msms_path is not needed if you use the file attached to here)
+(msms_path is not needed if you use the file attached to here, since it's by default the one uploaded here)
 
 
 Modules of the script:
